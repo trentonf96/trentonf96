@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Passionate and driven software engineer seeking to utilize my knowledge and skills to solve complex problems in the field. Recently graduated with a computer science degree, I have experience in programming languages such as Java, Python, and C++, as well as a strong background in web development, data structures, and algorithms. I thrive on collaborating with others to create effective and innovative solutions and am always aiming to expand my knowledge and improve my craft. Excited to learn, grow, and make a valuable contribution to the software engineering community.
+Passionate and driven software engineer seeking to utilize my knowledge and skills to solve complex problems in the field. Recently graduated with a computer science degree, I have experience in programming languages such as Java, Python, and C++, as well as a strong background in web development, data structures, and algorithms. I thrive on collaborating with others to create effective and innovative solutions and am always aiming to expand my knowledge and improve my craft.
 
 * 🌍  I'm based in Orangevale, CA
 * ✉️  You can contact me at [trentonfengel@gmail.com](mailto:trentonfengel@gmail.com)
